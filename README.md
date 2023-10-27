@@ -1,6 +1,6 @@
 # Quasar App (condominium-orders)
 
-A Quasar Project
+A Quasar Project. A college project for mobile learning
 
 ## Install the dependencies
 ```bash
